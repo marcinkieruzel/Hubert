@@ -1,0 +1,18 @@
+[
+  {
+    "pochodzenie": "Brazylia",
+    "typ": "Arabica",
+    "nazwa": "Kawka",
+    "sore": 30,
+    "bitter": 30,
+    "sweet": 30
+  },
+  {
+    "pochodzenie": "Boliwia",
+    "typ": "Arabica",
+    "nazwa": "Kawka Super",
+    "sore": 20,
+    "bitter": 40,
+    "sweet": 30
+  }
+]
